@@ -30,12 +30,16 @@ ul {
 }
 
 .Weather canvas {
-    margin-right: 20px;
+    margin-right: 10px;
+}
+
+.Weather a {
+    color: yellow
 }
 
 .Weather .temperature {
     font-weight: 400;
-    font-size: 64px;
+    font-size: 55px;
     line-height: 1.6;
     text-shadow: 2px 0px 13px rgba(0, 0, 0, 0.5);
 }
@@ -48,5 +52,5 @@ ul {
 }
 
 .Weather .infoWeather {
-    margin-top: 23px;
+    margin-top: 20px;
 }

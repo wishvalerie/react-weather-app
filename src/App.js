@@ -9,7 +9,7 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://github.com/wishvalerie/react-weather-app"
+            href="https://www.instagram.com/wishvalerie/?hl=en"
             target="_blank"
             rel="noopener noreferrer"
           >
