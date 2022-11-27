@@ -1,0 +1,31 @@
+.WeatherForecast .card {
+    margin-top: 15px;
+    text-align: center;
+    box-shadow: 0px 40px 60px rgba(0, 0, 0, 0.4);
+    border-style: none;
+    background-color: transparent;
+}
+
+.WeatherForecast .card-header {
+    background-color: rgba(44, 106, 199, 0.25);
+    text-transform: uppercase;
+}
+
+.WeatherForecast .card-text {
+    padding-top: 14px;
+    font-size: 12px;
+}
+
+.WeatherForecast .personal-links {
+    text-align: center;
+    display: block;
+    font-size: 13px;
+}
+
+.WeatherForecast-temperature-max {
+    font-weight: bold;
+}
+
+.WeatherForecast-temperature-min {
+    opacity: 0.7;
+}
